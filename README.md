@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Dharshini 👋
 
-<!--
-**dharshini67/dharshini67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final-year B.Tech (AI & Data Science) student | Aspiring Data Analyst | Chennai, India**
 
-Here are some ideas to get you started:
+I turn raw data into clear findings: cleaning and validating data, tracking KPIs, spotting trends and building dashboards that teams can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/cs-dharshini-8a3292273) · [Medium](https://medium.com/@csdharshini2023) · csdharshini2023@gmail.com
+
+---
+
+## 🛠️ Skills
+
+**Analytics & Reporting:** MS Excel (Pivot Tables, XLOOKUP, Slicers) · Power BI · DAX
+**Programming:** Python (Pandas, NumPy) · SQL
+**Concepts:** Data Cleaning & Validation · KPI Monitoring · Descriptive Statistics · Trend & Funnel Analysis
+
+---
+
+## 📊 Featured Projects
+
+| Project | What I found | Tools |
+|---|---|---|
+| [**Electronics Sales Analytics**](LINK) | Laptops drive ~56% of revenue; November peak, June–July dip | Power BI, DAX, Excel |
+| [**Fear vs Greed: Trader Behavior**](LINK) | Analyzed 27K+ trades; Fear periods had the highest win rate ([X]%) | Python, SQL, Power BI |
+| [**Cafe Revenue & Basket Analysis**](LINK) | 82.72K revenue, 39.39K profit, Sandwich & Pizza top sellers | Power BI, DAX |
+| [**Customer Funnel Analysis**](LINK) | 28% drop-off at payment stage across 20K+ interactions | Python |
+
+---
+
+## 📈 What I'm working on
+- Adding anomaly detection (z-score/IQR) to my projects
+- Practicing SQL on LeetCode (SQL50)
+
+---
+
+## 📫 Let's connect
+Open to Trainee Analyst / Data Analyst roles in Chennai.
