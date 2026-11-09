@@ -1,7 +1,8 @@
 # Hi, I'm Dharshini 👋
 
-**Final-year B.Tech (AI & Data Science) student | Aspiring Data Analyst | Chennai, India**
+**Data Analyst | Chennai, India**
 
+"Every analysis ends with a recommendation a team can act on"
 I turn raw data into clear findings: cleaning and validating data, tracking KPIs, spotting trends and building dashboards that teams can actually use.
 
 [LinkedIn](https://www.linkedin.com/in/cs-dharshini-8a3292273) · [Portfolio](https://dharshini-graphic-designer.my.canva.site/growing-freelancer-website-in-beige-black-minimal-professional-style) . [Medium](https://medium.com/@csdharshini2023) · csdharshini2023@gmail.com
@@ -11,8 +12,8 @@ I turn raw data into clear findings: cleaning and validating data, tracking KPIs
 ## 🛠️ Skills
 
 **Analytics & Reporting:** MS Excel (Pivot Tables, XLOOKUP, Slicers) · Power BI · DAX
-**Programming:** Python (Pandas, NumPy) · SQL
-**Concepts:** Data Cleaning & Validation · KPI Monitoring · Descriptive Statistics · Trend & Funnel Analysis
+**Programming:** Python (Pandas, NumPy) · SQL(PostgreSQL, Microsoft SQL server) . Pyspark
+**Concepts:** Data Cleaning & Validation · KPI Monitoring · Statistics · Trend & Funnel Analysis . Machine Learning, Business Acumen
 
 ---
 
