@@ -25,8 +25,7 @@ I turn raw data into clear findings: cleaning and validating data, tracking KPIs
 | [**Cafe Revenue & Basket Analysis**](https://github.com/dharshini67/Cafe-Revenue-Basket-Analysis-Dashboard) | 82.72K revenue, 39.39K profit, Sandwich & Pizza top sellers | Power BI, DAX |
 | [**Customer Funnel Analysis**](LINK) | 28% drop-off at payment stage across 20K+ interactions | Python , PowerBI(DAX)|
 | [**KeepCup sentiment analysis of customer reviews**](https://github.com/dharshini67/multi-platform-sentiment-analysis-of-customer-reviews--KeepCup) |  Customer face lid leakage, Neutralized reviews | · Python, OBSEI, TF-IDF, NLP |
-| [**EDA of Billionaires**](https://github.com/dharshini67/Exploratory-Data-Analysis-of-Billionaires-Dataset--EDA-Dashboard-) | 90% of billionaires fall in the 50–69 age group, Majority are self made,
-10% fall in the 70–89 age group | Python, Excel(Power query)
+| [**EDA of Billionaires**](https://github.com/dharshini67/Exploratory-Data-Analysis-of-Billionaires-Dataset--EDA-Dashboard-) | 90% of billionaires fall in the 50–69 age group, Majority are self made, 10% fall in the 70–89 age group | Python, Excel(Power query) |
 ---
 
 ## 📈 What I'm working on
