@@ -3,6 +3,7 @@
 **Data Analyst | Chennai, India**
 
 "Every analysis ends with a recommendation a team can act on"
+
 I turn raw data into clear findings: cleaning and validating data, tracking KPIs, spotting trends and building dashboards that teams can actually use.
 
 [LinkedIn](https://www.linkedin.com/in/cs-dharshini-8a3292273) · [Portfolio](https://dharshini-graphic-designer.my.canva.site/growing-freelancer-website-in-beige-black-minimal-professional-style) . [Medium](https://medium.com/@csdharshini2023) · csdharshini2023@gmail.com
@@ -37,4 +38,4 @@ I turn raw data into clear findings: cleaning and validating data, tracking KPIs
 ---
 
 ## 📫 Let's connect
-Open to Trainee Analyst / Data Analyst roles in Chennai.
+Open to Trainee Analyst / Data Analyst roles.
