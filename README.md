@@ -20,11 +20,12 @@ I turn raw data into clear findings: cleaning and validating data, tracking KPIs
 
 | Project | What I found | Tools |
 |---|---|---|
-| [**Electronics Sales Analytics**](LINK) | Laptops drive ~56% of revenue; November peak, June–July dip | Power BI, DAX, Excel |
-| [**Fear vs Greed: Trader Behavior**](LINK) | Analyzed 27K+ trades; Fear periods had the highest win rate ([X]%) | Python, SQL, Power BI |
-| [**Cafe Revenue & Basket Analysis**](LINK) | 82.72K revenue, 39.39K profit, Sandwich & Pizza top sellers | Power BI, DAX |
+| [**Electronics Sales Analytics**](https://github.com/dharshini67/Electronics-Sales-Analytics-Dashboard) | Laptops drive ~56% of revenue; November peak, June–July dip | Power BI, DAX, Excel |
+| [**Fear vs Greed: Trader Behavior**](https://github.com/dharshini67/Fear-vs-Greed-Trader-Behavior-Analysis-Using-Market-Sentiment-Power-BI-Python-/tree/main) | Analyzed 27K+ trades; Fear periods had the highest win rate ([X]%), A/B tested | Python, SQL, Power BI , Statistics|
+| [**Cafe Revenue & Basket Analysis**](https://github.com/dharshini67/Cafe-Revenue-Basket-Analysis-Dashboard) | 82.72K revenue, 39.39K profit, Sandwich & Pizza top sellers | Power BI, DAX |
 | [**Customer Funnel Analysis**](LINK) | 28% drop-off at payment stage across 20K+ interactions | Python |
-
+| [**KeepCup sentiment analysis of customer reviews**](https://github.com/dharshini67/multi-platform-sentiment-analysis-of-customer-reviews--KeepCup) |  
+| [**EDA of Billionaires**](https://github.com/dharshini67/Exploratory-Data-Analysis-of-Billionaires-Dataset--EDA-Dashboard-)
 ---
 
 ## 📈 What I'm working on
